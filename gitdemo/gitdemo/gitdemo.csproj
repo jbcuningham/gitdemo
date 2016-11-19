@@ -43,11 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="moreTiers.cs" />
+    <Compile Include="TierCalculator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tier.cs" />
-    <Compile Include="TierGroup.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
